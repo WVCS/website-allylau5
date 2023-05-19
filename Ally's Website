@@ -1,0 +1,74 @@
+<html>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible"content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1,0">
+<title>mywebsite</title>
+</head>
+<body>
+  <nav>
+    <center>
+    <li><a href="index.html"> HOME </a>    <li>
+    <li><a href="secondpage.html"> APPS </a> <li> 
+    </nav>
+ 
+      <br>
+      <br>
+      
+  <h2> Ally's Website </h2>
+  <h5> This is a basic website </h5>
+  
+
+<center>
+  <img
+       src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTiQcHJqzYYYMhtkjDBTy5Vf_RFBl6aGXrV9ozuIq6iPWf3WroyY8NaBJ2rBfyfKDX17zY:https://cdn.shopify.com/s/files/1/1061/1924/products/Sunglasses_Emoji_be26cc0a-eef9-49e5-8da2-169bb417cc0b_large.png%3Fv%3D1571606036&usqp=CAU"
+       </body>
+  </html>
+  
+    <style>
+h2 {
+  color: #CDB0DF;
+  font-size: 200%;
+  text-align: center;
+}
+h5 {text-align: center;
+color: #CDB0DF
+  
+
+}
+body{
+  background-color: #875C74;
+}
+
+img:hover {
+  border: #CDB0DF;
+  border radius: 30%;
+}
+
+nav {
+  list-style-type: none;
+  position: fixed;
+  background-color: #CDB0DF;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  padding: 12px;
+}
+
+li{
+  display:inline;
+  padding: 13px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+li:hover{
+  background-color: blue;
+}
+<html>
+  
